@@ -1,6 +1,6 @@
 # pageshot-api
 
-> A website screenshot api.
+> A simple website screenshot api.
 
 ## Install
 
